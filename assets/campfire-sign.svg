@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="204" viewBox="0 0 1100 204" role="img" aria-label="Plundering Puma campfire greeting: Good builds are better shared">
+<defs><linearGradient id="b" x2="1"><stop stop-color="#172c33"/><stop offset="1" stop-color="#203e40"/></linearGradient></defs>
+<rect width="1100" height="204" rx="17" fill="url(#b)"/><rect x="13" y="13" width="1074" height="178" rx="12" fill="none" stroke="#a5a17e"/>
+<path d="M72 150q47-58 94 0M74 150l92 0" stroke="#dabb83" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M116 147q-17-16-4-36 0 15 10 22 8-14 6-30 31 36-7 46" fill="#deb56b" stroke="#f1d79b" stroke-width="2"/>
+<path d="M89 162l63-20M89 143l63 19" stroke="#8cb5a6" stroke-width="8" stroke-linecap="round"/>
+<g fill="#ddc28e"><path d="M223 56l6 13 13 6-13 6-6 13-6-13-13-6 13-6z"/><circle cx="881" cy="46" r="2.5"/><circle cx="1034" cy="136" r="2.5"/></g>
+<text x="242" y="90" fill="#f4e6c8" font-family="Georgia,serif" font-size="43" font-weight="bold">Good builds are better shared.</text>
+<text x="242" y="137" fill="#9fc3b7" font-family="Arial,sans-serif" font-size="19" letter-spacing="1.5">LEAVE A MESSAGE. FIND A QUEST. STAY CURIOUS.</text>
+<text x="942" y="177" fill="#dfc68b" font-family="Georgia,serif" font-style="italic" font-size="19">— the Puma</text>
+</svg>
