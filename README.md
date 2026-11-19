@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Plundering Puma — an original fantasy-inspired thief-cat banner" width="100%" />
+<img src="./assets/banner-animated.svg" alt="Plundering Puma — gently animated fantasy banner with blinking puma, glowing treasure, and twinkling sparks" width="100%" />
 
 <br/>
 
