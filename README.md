@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-animated.svg" alt="Plundering Puma — gently animated fantasy banner with blinking puma, glowing treasure, and twinkling sparks" width="100%" />
+<img src="./assets/treasure-glow.gif" alt="Plundering Puma animated treasure glow — the gray puma blinks beside its glowing treasure chest" width="100%" />
 
 <br/>
 
@@ -37,63 +37,49 @@ From dashboards to browser extensions and Discord integrations, I'm interested i
 
 </details>
 
-### ✧ ENTRY 002 — THE FOUR RELICS
-
-Not just a wall of logos. These are the four kinds of craft I keep returning to.
-
-<img src="./assets/four-relics.svg" alt="Four handcrafted inventory relics: the Script for web development, the Compass for interface design, the Cloudstone for services, and the Looking Glass for testing" width="100%" />
-
-**My working kit:** JavaScript · HTML · CSS · Cloudflare · Firebase · Git · GitHub · VS Code · Discord integrations
-
-The tools change. **Making things useful, understandable, and dependable** is the part that stays.
-
-### ✧ ENTRY 003 — FOLLOW THE TREASURE ROUTE
-
-Every project is a different stop on the map. Some are open for exploration; others are kept in the private vault.
-
-<img src="./assets/treasure-route.svg" alt="Original illustrated treasure map following four project quests: TrinoTime, TrinoBot, QC Tracker and Celo" width="100%" />
+<img src="./assets/four-relics-v3.webp" alt="Entry 002: The Four Relics. Four illustrated skill cards representing web craft, interface design, connected systems, and testing and reliability" width="100%" />
 
 <details>
-<summary><strong>🗺️ Unroll the quest records</strong> — What are these projects?</summary>
+<summary><strong>🧰 Inspect the inventory</strong> — Skills & technologies</summary>
 
-<br/>
-
-**01 / TrinoTime — A workspace that brings things together.** A web-based environment for attendance, operational visibility, and clearer team workflows. Private source.
-
-**02 / TrinoBot — A helpful companion.** A Discord integration that turns everyday commands into practical team workflow actions. Private source.
-
-**03 / QC Tracker — Small tool, useful signals.** Browser-extension work focused on capturing activity and improving synchronization reliability. Private source.
-
-**04 / [Celo](https://github.com/J-Celo/Celo) — A little something for the playlist.** A public personal music-player project.
-
-**Bonus find / [My Portfolio](https://github.com/J-Celo/My-Portfolio)** — A public home for more of my work.
+**The Script:** JavaScript · HTML · CSS  
+**The Compass:** UI/UX · interface flow · design polish  
+**The Cloudstone:** Cloudflare · Firebase · connected services  
+**The Looking Glass:** Quality assurance · debugging · synchronization
 
 </details>
 
-### ✧ ENTRY 004 — FOOTPRINTS IN THE FOREST
-
-Some journeys leave tracks. Mine look a little like commits.
-
-<div align="center">
-
-<img width="100%" alt="GitHub contribution activity graph for J-Celo" src="https://github-readme-activity-graph.vercel.app/graph?username=J-Celo&bg_color=0D2028&color=E5E4D8&line=DABB83&point=91BBAA&area=true&hide_border=true&area_color=4F7B78&custom_title=Footprints%20On%20The%20Map" />
-
-<sub>Publicly visible GitHub activity, rendered by an external service.</sub>
-
-</div>
+<img src="./assets/treasure-route-v3.webp" alt="Entry 003: The Treasure Route. A fantasy quest map showing TrinoTime, TrinoBot, QC Tracker, and Celo with their public or private status" width="100%" />
 
 <details>
-<summary><strong>📖 Open the optional stats ledger</strong></summary>
+<summary><strong>🗺️ Unroll the quest records</strong> — Read about the projects</summary>
 
-<br/>
+**01 · TrinoTime** — A private operational workspace with attendance and team dashboards.  
+**02 · TrinoBot** — A private Discord workflow companion for team commands and notifications.  
+**03 · QC Tracker** — A private browser extension focused on tracking and synchronization.  
+**04 · [Celo](https://github.com/J-Celo/Celo)** — A public personal music-player project.  
+**Bonus · [My Portfolio](https://github.com/J-Celo/My-Portfolio)** — A public project showcase.
+
+*Private projects are described only at a high level. No source code or confidential details are exposed.*
+
+</details>
+
+### ✧ ENTRY 004 — THE ADVENTURE RECORD
+
+*The journey continues, one useful commit at a time.*
+
+<details>
+<summary><strong>📈 View the activity trail and stats</strong></summary>
 
 <div align="center">
 
-<img width="52%" alt="GitHub stats for J-Celo" src="https://github-readme-stats.vercel.app/api?username=J-Celo&show_icons=true&hide_border=true&bg_color=0D2028&title_color=DABB83&text_color=E5E4D8&icon_color=91BBAA" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J-Celo&amp;bg_color=0D2028&amp;color=E5E4D8&amp;line=DABB83&amp;point=91BBAA&amp;area=true&amp;hide_border=true&amp;area_color=4F7B78&amp;custom_title=Footprints%20On%20The%20Map" alt="Recent GitHub contribution graph" width="95%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=J-Celo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D2028&amp;title_color=DABB83&amp;text_color=E5E4D8&amp;icon_color=91BBAA" alt="GitHub statistics" width="65%" />
+
+<sub>Third-party services may occasionally be unavailable and do not necessarily include private work.</sub>
 
 </div>
-
-<sub>Third-party stats may be unavailable and may not count private work.</sub>
 
 </details>
 
