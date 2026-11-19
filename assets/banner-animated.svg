@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="492" viewBox="0 0 1440 492">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1b26"/><stop offset="1" stop-color="#254541"/></linearGradient><radialGradient id="glow"><stop stop-color="#eac16d" stop-opacity=".5"/><stop offset="1" stop-color="#eac16d" stop-opacity="0"/></radialGradient></defs>
+<rect width="1440" height="492" fill="url(#bg)"/><circle cx="1150" cy="360" r="290" fill="url(#glow)" opacity=".72"><animate attributeName="opacity" values=".50;.90;.50" dur="5s" repeatCount="indefinite"/></circle>
+<path d="M0 374L156 293 283 359 427 250 581 378 735 296 885 380 1027 270 1266 385 1440 305v187H0z" fill="#2a4a50" opacity=".65"/>
+<path d="M0 426q105-78 220-16t245 0q144-86 274 0t264 6q152-78 276-4t161 8v72H0z" fill="#1a3439"/>
+<g stroke="#d3b879" stroke-width="2" fill="none" opacity=".75"><path d="M36 100V35h80 M1324 35h80v65 M36 395v63h80 M1324 458h80v-63"/><path d="M145 35H656m128 0h501M145 458h511m128 0h501" opacity=".5"/></g>
+<g fill="#dfc18c"><path d="M720 19l7 15 15 7-15 7-7 15-7-15-15-7 15-7z M720 430l7 15 15 7-15 7-7 15-7-15-15-7 15-7z"/><circle cx="229" cy="104" r="3"/><circle cx="455" cy="78" r="2"/><circle cx="990" cy="83" r="2"/><circle cx="1238" cy="129" r="3"/></g>
+<g font-family="Georgia,serif" font-weight="bold" fill="#f3e5c9"><text x="80" y="203" font-size="89" letter-spacing="1">PLUNDERING</text><text x="80" y="316" font-size="120" letter-spacing="3">PUMA</text></g>
+<path d="M83 336H636" stroke="#dbb879" stroke-width="3"/><text x="82" y="384" font-family="Arial,sans-serif" font-size="24" fill="#e0bb7d" letter-spacing="4">DEVELOPER  ·  BUILDER  ·  CREATOR</text><text x="83" y="418" font-family="Arial,sans-serif" font-size="20" fill="#e1d9c9">collect ideas  •  conquer bugs  •  share the treasure</text>
+<g transform="translate(935,47)">
+<g><path d="M35 288C-56 343-38 203 32 214c50 10 6 82-19 53" stroke="#242b2d" stroke-width="45" fill="none" stroke-linecap="round"/><animateTransform attributeName="transform" type="rotate" values="0 35 287;3 35 287;0 35 287;-2 35 287;0 35 287" dur="5.6s" repeatCount="indefinite"/></g>
+<path d="M93 315q-83-26-67-103 35-76 125-71 82 4 97 110l-42 70z" fill="#553d54"/>
+<ellipse cx="139" cy="293" rx="91" ry="56" fill="#434c4a"/>
+<path d="M72 101L52 16q40 2 74 60M190 69L258 19l-13 91" fill="#353a3b" stroke="#bbad91" stroke-width="8" stroke-linejoin="round"/>
+<path d="M42 130q30-85 123-80 104 0 107 106l-21 61q-42 62-121 60Q44 260 34 201z" fill="#434b4b" stroke="#24292c" stroke-width="8"/>
+<path d="M55 123Q148 80 263 131l-12 26Q150 115 49 156z" fill="#74716c" stroke="#262c2d" stroke-width="7"/>
+<circle cx="49" cy="91" r="15" stroke="#d8b16d" stroke-width="8" fill="none"/><circle cx="254" cy="81" r="15" stroke="#d8b16d" stroke-width="8" fill="none"/>
+<path d="M67 191q38-23 61-1M163 187q31-26 61-7" stroke="#151d1d" stroke-width="10" fill="none" stroke-linecap="round"/>
+<ellipse cx="102" cy="203" rx="10" ry="14" fill="#111a1c"><animate attributeName="ry" values="14;14;14;1;14;14" keyTimes="0;.56;.575;.592;.61;1" dur="6.2s" repeatCount="indefinite"/></ellipse><ellipse cx="193" cy="201" rx="10" ry="14" fill="#111a1c"><animate attributeName="ry" values="14;14;14;1;14;14" keyTimes="0;.56;.575;.592;.61;1" dur="6.2s" repeatCount="indefinite"/></ellipse><path d="M141 217h23l-11 10z" fill="#bd8d79"/><path d="M126 228q27 20 52 0" stroke="#261d1d" stroke-width="5" fill="none"/><path d="M134 237l8 16 7-18M160 235l7 18 9-19" fill="#fff1da"/>
+<path d="M114 223q-30 0-45 13M181 222q25 0 45 13" stroke="#e1c9a1" stroke-width="3" fill="none"/>
+<g transform="translate(232,251)"><path d="M19 70q5-68 82-69 82 4 83 69l-25 30H42z" fill="#57392b" stroke="#e0b16a" stroke-width="9"/><path d="M20 76H181L164 181H32z" fill="#70442f" stroke="#d7a35e" stroke-width="9"/><path d="M18 82H184" stroke="#f1ce82" stroke-width="16"/><path d="M40 87v88M161 87v88" stroke="#d7a35e" stroke-width="8"/><rect x="88" y="80" width="30" height="35" rx="5" fill="#e6b770"/><circle cx="103" cy="96" r="5" fill="#70442f"/><path d="M69 69l14-23 20 23 18-24 19 24" fill="#ffe49a" stroke="#efc55d" stroke-width="5"/></g>
+<g fill="#e9bb6b" stroke="#ffe69c" stroke-width="2"><ellipse cx="269" cy="320" rx="15" ry="8"/><ellipse cx="314" cy="314" rx="14" ry="9"/><ellipse cx="357" cy="321" rx="14" ry="8"/><ellipse cx="396" cy="336" rx="15" ry="8"/><ellipse cx="408" cy="376" rx="15" ry="8"/></g>
+</g>
+<g aria-label="Gently twinkling golden sparks around the treasure">
+<path d="M1172 293h16 M1180 285v16" stroke="#ffdf9a" stroke-width="2.4" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;.88;0" keyTimes="0;.40;1" begin="0s" dur="4.2s" repeatCount="indefinite"/></path>
+<path d="M1344 315h14 M1351 308v14" stroke="#ffdf9a" stroke-width="2.4" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;.88;0" keyTimes="0;.40;1" begin="1.2s" dur="3.9s" repeatCount="indefinite"/></path>
+<path d="M1240 247h12 M1246 241v12" stroke="#ffdf9a" stroke-width="1.8" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;.88;0" keyTimes="0;.40;1" begin="2.2s" dur="5.6s" repeatCount="indefinite"/></path>
+<path d="M1300 261h10 M1305 256v10" stroke="#ffdf9a" stroke-width="1.8" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;.88;0" keyTimes="0;.40;1" begin="0.8s" dur="4.6s" repeatCount="indefinite"/></path>
+<path d="M1169 355h10 M1174 350v10" stroke="#ffdf9a" stroke-width="1.8" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;.88;0" keyTimes="0;.40;1" begin="2s" dur="5.1s" repeatCount="indefinite"/></path>
+<path d="M1386 387h10 M1391 382v10" stroke="#ffdf9a" stroke-width="1.8" stroke-linecap="round" opacity="0"><animate attributeName="opacity" values="0;.88;0" keyTimes="0;.40;1" begin="1.7s" dur="5.5s" repeatCount="indefinite"/></path>
+</g>
+</svg>
