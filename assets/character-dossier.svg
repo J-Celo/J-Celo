@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d2028"/><stop offset="1" stop-color="#172e34"/></linearGradient>
+<linearGradient id="g" x2="1"><stop stop-color="#e5cf9e"/><stop offset="1" stop-color="#b89155"/></linearGradient>
+<pattern id="stars" width="82" height="61" patternUnits="userSpaceOnUse"><circle cx="22" cy="21" r="1" fill="#8db9ab" opacity=".23"/></pattern>
+</defs>
+<rect width="1100" height="330" rx="18" fill="url(#bg)"/>
+<rect x="12" y="12" width="1076" height="306" rx="11" fill="url(#stars)" stroke="#67887d" stroke-opacity=".55"/>
+<g fill="none" stroke="#dabd7e" stroke-width="2"><path d="M30 72V32h44M1026 32h44v40M30 258v40h44M1026 298h44v-40"/></g>
+
+<text x="53" y="64" fill="#80b1a6" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">CHARACTER FILE  /  PP—001</text>
+<text x="834" y="64" fill="#d5b878" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">✦  ACTIVE QUEST</text>
+<circle cx="175" cy="185" r="98" fill="#223b3c" stroke="#d7b87b" stroke-width="3"/>
+<circle cx="175" cy="185" r="86" fill="none" stroke="#83a99b" stroke-width="1" stroke-dasharray="4 9"/>
+<path d="M116 158L113 103l41 28q20-6 41 0l42-28-6 58q17 26 3 65-18 45-58 46-50 0-64-47-10-34 4-67z" fill="#444b49" stroke="#d3b77f" stroke-width="4"/>
+<path d="M131 109l8 25-18 15M209 109l-8 25 18 15" fill="#9d7663"/>
+<path d="M130 187l33-4M190 183l30 4" stroke="#131d1e" stroke-width="9" stroke-linecap="round"/>
+<path d="M167 206l16 0-8 8z" fill="#c49d84"/><path d="M158 219q17 13 34 0" stroke="#d6c29b" stroke-width="3" fill="none"/>
+<path d="M137 215l-25 6M211 215l24 6" stroke="#d6c29b" stroke-width="2"/>
+<text x="304" y="155" fill="#f1e5c9" font-family="Georgia,serif" font-size="47" font-weight="bold">Plundering Puma</text>
+<text x="306" y="196" fill="#d7b87b" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">BUILDER  ·  CREATOR  ·  PROBLEM SOLVER</text>
+<text x="306" y="238" fill="#c6d2cf" font-family="Arial,sans-serif" font-size="20">Based in the Philippines. Working on useful things.</text>
+<path d="M306 258h449" stroke="#69857d" stroke-width="1"/>
+<text x="306" y="286" fill="#8dbdaf" font-family="Georgia,serif" font-size="20" font-style="italic">“Good ideas deserve thoughtful execution.”</text>
+<rect x="812" y="109" rx="11" width="233" height="62" fill="#224044" stroke="#6d9087"/>
+<text x="832" y="133" fill="#90b9ac" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">PRIMARY SKILL</text>
+<text x="832" y="155" fill="#f4e5c5" font-family="Arial,sans-serif" font-size="20">Building real tools</text>
+<rect x="812" y="182" rx="11" width="233" height="62" fill="#224044" stroke="#6d9087"/>
+<text x="832" y="206" fill="#90b9ac" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">SIDE QUEST</text>
+<text x="832" y="228" fill="#f4e5c5" font-family="Arial,sans-serif" font-size="20">UI that feels right</text>
+<text x="826" y="278" fill="#d6b979" font-family="Arial,sans-serif" font-size="16">✧  build  →  test  →  refine</text>
+</svg>
